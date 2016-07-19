@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4C605AD0-EF82-F220-F8C0-6190D81608B2}") = "Unexpected Friends", "Assembly-CSharp.csproj", "{3094A0A2-4085-E0EF-BDD0-859A63876EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3094A0A2-4085-E0EF-BDD0-859A63876EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3094A0A2-4085-E0EF-BDD0-859A63876EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3094A0A2-4085-E0EF-BDD0-859A63876EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3094A0A2-4085-E0EF-BDD0-859A63876EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
