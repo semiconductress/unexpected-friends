@@ -87,6 +87,8 @@ public class TextHandler {
 	public DialogueSegment currentseg;
 	public int currenttextindex;
 
+	//Testing
+
 	public TextHandler (ArrayList f, Text t) {
 		tallhead.Add (new DialogueSegment (testtext1, flagsnull, choices1, setflags1, DialogueSegment.CONT));
 		tallhead.Add (new DialogueSegment (testtext2, flags2, choicesnull, setnull, DialogueSegment.EXIT));
