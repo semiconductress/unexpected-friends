@@ -312,7 +312,6 @@ public class TextHandler {
 		}
 		return mostseg;
 	}
-
 }
 
 public class DialogueSegment {
